@@ -3,4 +3,4 @@ This is my first repository.
 <Br>
 Developer - Yash Agrawal
 <Br>
-Solving A2Z Sheet.
+Solving Striver A2Z Sheet.
